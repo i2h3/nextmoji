@@ -17,3 +17,7 @@ Asking the important questions.
 | Dog | Cat | <img src="cat-on-dog.png" alt="Cat on Dog" width="128"> |
 
 </div>
+
+## License
+
+All images are released under [CC0 1.0 Universal](LICENSE) (public domain dedication). Do whatever you want with them.
